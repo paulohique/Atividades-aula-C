@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694563198 source:c:\users\paulo\onedrive\Área de trabalho\git c\4 -43\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

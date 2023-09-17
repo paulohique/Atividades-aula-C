@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1693355082 source:c:\users\paulo\onedrive\Área de trabalho\calculadora c\sabadoletivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
