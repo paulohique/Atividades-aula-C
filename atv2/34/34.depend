@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693955743 source:c:\users\paulo\onedrive\Área de trabalho\calculadora c\atv2\34\main.c
+	<stdio.h>
+	<locale.h>
+

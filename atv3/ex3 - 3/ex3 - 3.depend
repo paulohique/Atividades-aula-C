@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694105594 source:c:\users\paulo\onedrive\Área de trabalho\calculadora c\eeee\ex3 - 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
