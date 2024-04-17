@@ -6,24 +6,24 @@
 int main()
 {
     setlocale(LC_ALL, "Portuguese");
-    int n1,n2,n3,result;
+        int n1,n2,n3,result;
 
 
     // * n1 com n2
     // do resultado  subtrair n3
 
     printf("Coloque aqui o primeiro numero: \n");
-    scanf("%d",&n1);
+        scanf("%d",&n1);
     printf("Coloque aqui o segundo numero: \n");
-    scanf("%d",&n2);
+        scanf("%d",&n2);
     printf("Coloque aqui o terceiro numero: \n");
-    scanf("%d",&n3);
+        scanf("%d",&n3);
 
-    result = (n1 * n2) - n3;
+        result = (n1 * n2) - n3;
     if(result >= 0){
-        printf("O resultado é %d",result);
+        printf("O resultado Ã© %d",result);
     }else {
-        printf("O resultado é %d",result);
+        printf("O resultado Ã© %d",result);
     }
     return 0;
 }
